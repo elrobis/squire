@@ -1,0 +1,22 @@
+{
+  "dm": "Elijah (DM)",
+  "players": [
+    {"name": "Brandon", "character": "Aguiar", "notes": "Human fighter"},
+    {"name": "Zach", "character": "Wolter", "notes": "Elf magic user"},
+    {"name": "Sawyer", "character": "Starble", "notes": "Dwarf cleric"}
+  ],
+  "known_npcs": [
+    {"name":"Juniper", "notes":"Member of the party but controlled by the DM"},
+    {"name":"Starla", "notes":"High charisma, older human female, innate storyteller character, lives outside of Drexville"},
+    {"name":"Lorraine", "notes":"Leather craftswoman who makes custom gear for the party, lives near Starla"},
+    {"name":"Lorraine's husband", "notes":"Hunter, married to Lorraine, friends with Dunbar"},
+    {"name":"Dunbar", "notes":"Hunter, friend of Lorraine's husband"},
+    {"name":"Gish Nyquist", "notes":"Shopkeeper in Drexville, waiting for delayed shipment from Carlisle"},
+    {"name":"Stanislaus", "notes":"Blacksmith in Drexville who makes armor and equipment for the party"},
+    {"name":"Julie", "notes":"Works for Gish Nyquist, helps prepare rations"},
+    {"name":"Luther Twist", "notes":"Trader/merchant, also called Dish Nyquist"},
+    {"name":"Maximilian", "notes":"Runs the local tavern in Drexville"},
+    {"name":"Starla's father", "notes":"Mystical presence associated with the cave and a wolf"}
+  ],
+  "tone":"Low magic, survival-focused campaign"
+}

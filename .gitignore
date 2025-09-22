@@ -1,0 +1,16 @@
+.claude
+.env
+x_notes.txt
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+

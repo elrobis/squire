@@ -1,0 +1,14 @@
+typer==0.12.3
+python-dotenv==1.0.1
+ctranslate2==4.4.0
+faster-whisper==1.0.3
+pyannote.audio==3.1.1
+torch>=2.2.0
+numpy>=1.26,<2.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
+ollama==0.3.3
+chromadb==0.5.3
+orjson==3.10.7
+requests
+hf-transfer
