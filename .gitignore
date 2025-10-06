@@ -1,16 +1,20 @@
 .claude
 .env
-x_notes.txt
-data/
-__pycache__/
+.venv/
+venv/
 *.pyc
 *.pyo
 *.pyd
 .Python
 *.so
-.venv/
-venv/
 .DS_Store
 .vscode/
 .idea/
+__pycache__/
+# Disregard the data folder!
+data/
+# Disregard any .BKP files
+*.BKP
+# Disregard my local notes file
+x_notes.txt
 
